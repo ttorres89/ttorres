@@ -1,2 +1,3 @@
-# ttorres
-Curso DataScience
+# Curso DataScience
+
+Sección de Maching Learning
